@@ -7,6 +7,6 @@
 #   Character.create(name: "Luke", movie: movies.first)
 
 
-Message.create([{ content: 'Hello Rails!' }, { content: 'Hola Rails!' },
-  { content: 'Hallo Rails' }, { content: 'Bonjour Rails!' },
-  { content: '今日は レイルス!' }])
+Greeting.create([{ message: 'Hello Rails!' }, { message: 'Hola Rails!' },
+  { message: 'Hallo Rails' }, { message: 'Bonjour Rails!' },
+  { message: '今日は レイルス!' }])
