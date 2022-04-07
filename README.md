@@ -1,6 +1,6 @@
 # Hello Rails Back-end
 ![](https://img.shields.io/badge/Microverse-blueviolet) ![](https://img.shields.io/badge/Ruby-red) ![](https://img.shields.io/badge/Rails-critical)
-> Mobile web application built that shows a random greeting through a Rails API
+> Mobile web application built that shows a random greeting through a Rails API to the [front-end application](https://github.com/lu-jim/hello-react-front-end)
 
 
 ## Built With
